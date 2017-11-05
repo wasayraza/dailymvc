@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandShakeSite1", "HandShakeSite1\HandShakeSite1.csproj", "{DFA177E1-38FB-4895-9F08-4F23A2FB6096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{3EB72508-5BF7-4C85-A939-55F4E2C6AFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA177E1-38FB-4895-9F08-4F23A2FB6096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA177E1-38FB-4895-9F08-4F23A2FB6096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA177E1-38FB-4895-9F08-4F23A2FB6096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA177E1-38FB-4895-9F08-4F23A2FB6096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB72508-5BF7-4C85-A939-55F4E2C6AFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB72508-5BF7-4C85-A939-55F4E2C6AFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB72508-5BF7-4C85-A939-55F4E2C6AFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB72508-5BF7-4C85-A939-55F4E2C6AFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

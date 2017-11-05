@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>Welcome to Site 1</div>
+
+@using (Html.BeginForm("PostTweet","Home"))
+{
+    <div>
+        @Html.Label("Tweet")
+        @Html.TextArea("txtTweet")
+        <input type="submit" value="Post" name="btnSubmit" />
+    </div>
+}
